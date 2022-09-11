@@ -1,7 +1,7 @@
 # dstv-ng-practice
 Practising bootstrap 5 using the dstv ng page
 
-Speed drill development using dstv-ng home page for practise. Site built with bootstrap primarily.
+Speed drill development. Site built with bootstrap primarily.
 
 visit: https://dstv-port.netlify.app/
 
